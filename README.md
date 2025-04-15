@@ -22,6 +22,6 @@ python convert_compressed_ply_to_splat.py [input.compressed.ply] [output.splat] 
 ## Acknowledgements
 
 Inspired by:
-- Thank to [Playcanvas](https://github.com/playcanvas) for the compress `ply` to `.compressed.ply` tool from: https://github.com/playcanvas/splat-transform
+- Thank to [Playcanvas](https://github.com/playcanvas) for the compress `ply` to `.compressed.ply` tool: https://github.com/playcanvas/splat-transform
 - Thank to [Vincent Lecrubier](https://github.com/vincent-lecrubier-skydio) for the convert `.ply` to `.splat` tool: https://github.com/vincent-lecrubier-skydio/react-three-fiber-gaussian-splat/blob/main/convert_ply_to_splat.py
 
